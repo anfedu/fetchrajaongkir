@@ -1,0 +1,8 @@
+get https://api.rajaongkir.com/starter/city
+Content-Type: application/json
+key: e70c034bde344a36b883b48123c2ee72
+
+{
+  "userId": "a3106fb6-7467-49e2-b325-06ed542f350d",
+  "token": "928993"
+}
